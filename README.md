@@ -5,8 +5,8 @@ enthusiastic and attentive to details. Eager to learn something new every day an
 everything I get to put my hands on.
 
 
-- 🔭 I’m currently working at ***IBM*** and on **my own projects and ideas, which help me learn and grow as a developer**.
-- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React** and ***Node.js***.
+- 🔭 I’m currently working at **IBM** and on **my own projects and ideas, which help me learn and grow as a developer**.
+- 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React** and **Node.js**.
 - 👯 I’m looking to collaborate on **interesting open source projects**.
 - 💬 Ask me about **hookahs**.
 - 😄 I like to **code**, **read** and **enjoy nature**.
