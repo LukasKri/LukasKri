@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate self-learned front end developer with love for science and new technologies. I am creative, adaptive,\
+I'm a passionate self-learned full stack developer with love for science and new technologies. I am creative, adaptive,\
 enthusiastic and attentive to details. Eager to learn something new every day and persistent to raise the quality on\
 everything I get to put my hands on.
 
